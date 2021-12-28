@@ -27,7 +27,7 @@ body {
 button {
   cursor: pointer;
   outline: none;
-  width: 300px;
+  width: 250px;
   margin-top: 20px;
   height: 75px;
   font-family: 'Oswald', sans-serif;
@@ -83,7 +83,8 @@ footer {
   }
 
   button {
-    box-shadow: 4px 4px 25px 15px rgba(0, 0, 0, 0.5);
+    box-shadow: 3px 3px 25px 15px rgba(0, 0, 0, 0.5);
+    font-size: 1.5rem;
   }
 
   .joke-text {
